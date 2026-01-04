@@ -1,0 +1,11 @@
+date,department,category,amount,payment_method
+2025-01-01,IT,Ushqim,12.5,Card
+2025-01-01,Marketing,Transport,8.0,Cash
+2025-01-02,HR,Ushqim,15.0,Card
+2025-01-02,IT,Software,120.0,Card
+2025-01-03,Marketing,Argëtim,45.0,Card
+2025-01-03,IT,Transport,10.0,Cash
+2025-01-04,HR,Ushqim,9.5,Cash
+2025-01-05,IT,Software,200.0,Card
+2025-01-06,Marketing,Ads,150.0,Card
+2025-01-07,HR,Training,80.0,Card
